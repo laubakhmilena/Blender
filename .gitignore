@@ -1,0 +1,19 @@
+# Blender backups and temporary files
+*.blend[0-9]*
+*.blend@
+*.blend~
+*.tmp
+*.temp
+
+# Generated caches and render sequences
+**/blendcache_*/
+**/cache/
+**/caches/
+**/renders/
+__pycache__/
+*.py[cod]
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
